@@ -1,4 +1,3 @@
-@import "./color_schemes/dark";
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
